@@ -1,0 +1,24 @@
+>!
+DOCTYPE html>
+<html lang#="en">
+  <head>
+   <meta charset="UTF-8">
+   <metaname="viewport">
+   content=device-width,
+   initial-scale=1.0">
+      <title>My First Webpage</
+      title>
+        <style>
+          body {font-family:arial,
+          san-serif;margin:40px;}
+          h1{ color:2c3e50;}
+          </style>
+          </head>
+          <body>
+          <h1>Hello,World!</h1>
+          <p>Welcome to my first
+          webpage hosted on GitHub
+          Pages.</p>
+          </body>
+          </html>
+    
